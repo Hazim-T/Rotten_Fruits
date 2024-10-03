@@ -56,9 +56,3 @@ cd Rotten_Fruits
 ```bash
 pip install -r requirements.txt
 ```
-
-### 3. Extract the data folder:
-```bash
-tar -xvf data.tar
-```
-and don't forget to remove the old compressed tar folder so there won't be a mixup.
